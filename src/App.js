@@ -1,8 +1,9 @@
 import React from "react";
 import "./index.css";
 import { useState } from "react";
-import Select from "./Select";
+import SelectCountryHooks from "./Hooks/SelectCountry";
 import countryDetails from "./coutryDetails.json";
+import SelectCountry from "./Redux/Components/SelectCountry";
 export default function App() {
   const [country, setCountryInput] = useState({
     name: "",
@@ -70,7 +71,8 @@ export default function App() {
             )}
           </>
         ) : (
-          <Select />
+          // <SelectCountryHooks /> Simple Hook
+          <SelectCountry />
         )}
       </section>
     </>

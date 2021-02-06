@@ -1,26 +1,7 @@
 import React from "react";
-
-import countryDetails from "./coutryDetails";
+import countryDetails from "../coutryDetails";
 import Select from "react-select";
-
-const colourStyles = {
-  control: (styles) => ({ ...styles, backgroundColor: "white" }),
-  option: (styles, { data, isFocused, isSelected }) => {
-    return {
-      ...styles,
-      backgroundColor: isSelected ? "#28b485" : isFocused ? "#28b485" : "#fff",
-      color: isSelected ? "#fff" : isFocused ? "#fff" : "#28b485",
-      ":active": {
-        ...styles[":active"],
-        backgroundColor: isSelected ? "#fff" : isFocused ? "#fff" : "#28b485",
-        color: isSelected ? "#28b485" : isFocused ? "#28b485" : "#fff",
-      },
-    };
-  },
-  input: (styles) => ({ ...styles }),
-  placeholder: (styles) => ({ ...styles }),
-  singleValue: (styles) => ({ ...styles }),
-};
+import colourStyles from "../ReactSelectStyle";
 
 export default () => {
   const [country, setCountryInput] = React.useState();
@@ -40,9 +21,11 @@ export default () => {
     <div className="select_container">
       <Select
         label="Single select"
-        options={countryDetails.map((i) => ({ value: i.name, label: i.name }))}
+        options={countryDetails.map((i) => ({
+          value: i.name,
+          label: i.name + " - " + i.code,
+        }))}
         styles={colourStyles}
-       
         onChange={(e) => setCountryInput(e.value)}
       />
       {country && getFilteredCountry(countryDetails)}

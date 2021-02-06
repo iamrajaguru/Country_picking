@@ -142,9 +142,9 @@ body {
   width: 400px;
   font-weight: 600;
   color: #fff;
-   left: 50%;
+  left: 50%;
   position: absolute;
-  margin-top: 200px;
+  margin-top: 150px;
   transform: translate(-50%, -50%);
   text-align: center;
 }
@@ -155,12 +155,10 @@ body {
 }
 
 .select_container {
-
   display: block;
-
   position: absolute;
   width: 300px;
-  top: 20%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 
