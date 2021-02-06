@@ -1,0 +1,82 @@
+[{
+        "name": "Afghanistan",
+        "code": "AF",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Aland Islands",
+        "code": "AX",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Algeria",
+        "code": "DZ",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "American Samoa",
+        "code": "AS",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "AndorrA",
+        "code": "AD",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Angola",
+        "code": "AO",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+
+    {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Argentina",
+        "code": "AR",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+
+    {
+        "name": "Australia",
+        "code": "AU",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+
+    {
+        "name": "Bahrain",
+        "code": "BH", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Belarus",
+        "code": "BY",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+    }, {
+        "name": "India",
+        "code": "IN",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias nihil magni, laborum cupiditate suscipit accusamus vitae culpa. Incidunt aperiam, consequatur ipsa soluta facere facilis ea quod sequi, delectus laboriosam optio."
+
+    }
+]
